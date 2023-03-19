@@ -1,3 +1,3 @@
 # Learning `MARKDOWN`
-
-![Image of The Creed](https://in.pinterest.com/pin/128352658109328948/)
+##### Adding image in the `index.md file`
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
